@@ -7,7 +7,7 @@
 # Proposta do desafio:
 
 
-Criar um modelo que classifica o perfil de cada aluno para prever a categoria dos alunos futuros do LIT (O LIT é a plataforma digital de cursos da Saint Paul Escola de Negócios).
+Criar um modelo que classifica o perfil de cada aluno para prever a categoria dos alunos futuros do LIT (O LIT é a plataforma digital de cursos da Saint Paul Escola de Negócios). Utilizei o XGBoost e o smote para balancear os dados.
 
 
 Link do desafio: https://github.com/maratonadev-br/desafio-6-2020
